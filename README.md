@@ -6,11 +6,17 @@ Status monitoring dashboard for peace of mind.
 
 ##Primary functions
 Pressure sensor monitors bilge water depth. 
+
 Accelerometer monitors wave action and impacts.
+
 Gyro attitude sensing for rolling and listing?
+
 Compass tracks anchor swing
+
 Temperature
+
 Battery Voltage
+
 Wi-Fi or Cell data to send telemetry
 
 ##Status and alarms
