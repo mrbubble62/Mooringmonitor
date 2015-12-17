@@ -35,6 +35,7 @@ Correlation to local weather and tide conditions
 Battery Voltage
 
 ##Requirements
+###Accuracy
 Water depth sensing:  0.0mm until the whole thing starts to float.
 
 Acceleration: TBD
