@@ -14,29 +14,41 @@ Battery Voltage
 Wi-Fi or Cell data to send telemetry
 
 ##Status and alarms
-*Boat is sinking
-*The boat is listing
-*Freeze warning
-*Can we infer Mooring line length? Are we banging into the dock?
-*Mooring conditions wave action
-*Correlation to local weather and tide conditions
-*Battery Voltage
+Boat is sinking
+
+The boat is listing
+
+Freeze warning
+
+Can we infer Mooring line length? Are we banging into the dock?
+
+Mooring conditions wave action
+
+Correlation to local weather and tide conditions
+
+Battery Voltage
 
 ##Requirements
-*Water depth sensing:  0.0mm until the whole thing starts to float.
-*Acceleration: TBD
-*Relative rotation: TBD
-*Update rate: TBD
+Water depth sensing:  0.0mm until the whole thing starts to float.
+
+Acceleration: TBD
+
+Relative rotation: TBD
+
+Update rate: TBD
 
 *Wi-Fi / Cell for telemetry upload to cloud service
 *Bluetooth for configuration, debug.
 *USB for firmware update
 
 ##Hardware
-*IoT device 
-*9 DOF sensor
-*Barometric pressure sensor
-*Alarm sounder
+IoT device 
+
+9 DOF sensor
+
+Barometric pressure sensor
+
+Alarm sounder
 
 ##Power
 House power will allow GPS and geofencing (power calcs req)
