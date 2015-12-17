@@ -1,4 +1,4 @@
-# Mooringmonitor
+# Mooring Monitor
 Monitor your vessel when away from the boat
 Low cost, low power sensors for battery operated telemetry
 web services alert you to situations looming on your boat
