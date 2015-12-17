@@ -42,13 +42,26 @@ Update rate: TBD
 *USB for firmware update
 
 ##Hardware
-IoT device 
+IoT device with Bluetooth Wi-Fi and optionally Cell Modem
 
-9 DOF sensor
+9 DOF MEMS sensor
 
 Barometric pressure sensor
 
 Alarm sounder
+
+PVC Pipe fittings
+
+Flexible membrane 
+
+Battery holder and battery
+
+Fuse
+
+House battery wires and clips
+
+Alarm Sounder
+
 
 ##Power
 House power will allow GPS and geofencing (power calcs req)
