@@ -1,0 +1,8 @@
+#Sensors
+Gyroscope/Accelerometer/Magnetometer 
+MPU-9250 or LSM9DS1 
+
+#Water depth
+1. MS5637 Barometric Pressure sensor 10-2000 mbar 24 bit i2c 3.0v  
+2. Honyewell ABPMAND001PG2A3 1 psi Guage  0.25%  i2c 12bit 3.3V
+3. MP3V5004GP Gauge, 0.6 V/kPa, 3.92 kPa, 3.3V
