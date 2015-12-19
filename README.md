@@ -59,7 +59,7 @@ Alarm sounder
 
 PVC Pipe fittings
 
-Flexible membrane 
+Nitrile membrane to keep water out
 
 Battery holder and battery
 
@@ -69,14 +69,19 @@ House battery wires and clips
 
 Alarm Sounder
 
-
 ##Power
 House power will allow GPS and geofencing (power calcs req)
 
-Lithium primary batteries for extended low temperature  operation
+Lithium thionyl chloride primary battery for extended low temperature  operation
 
 ##Design
 Inverted chamber containing sensors is placed directly into the bilge.
-
 Rising water is sensed by the pressure sensor, values are filtered, multiplexed with other telemetry and relayed for remote analysis.
+
+Utilize the accelerometer as an input device
+  Invert device to change mode 
+  Shake to input
+  switch Wi-Fi to AP mode and start web interface for initial configuration.
+  Detect horizonal and not moving "Shelf Mode" and got to deep power save.
+  
 
