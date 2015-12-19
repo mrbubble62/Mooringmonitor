@@ -79,9 +79,9 @@ Inverted chamber containing sensors is placed directly into the bilge.
 Rising water is sensed by the pressure sensor, values are filtered, multiplexed with other telemetry and relayed for remote analysis.
 
 Utilize the accelerometer as an input device
-  Invert device to change mode 
-  Shake to input
-  switch Wi-Fi to AP mode and start web interface for initial configuration.
-  Detect horizonal and not moving "Shelf Mode" and got to deep power save.
+  *Invert device to change mode 
+  *Shake to input
+  *Switch Wi-Fi to AP mode and start web interface for initial configuration.
+  *Detect horizonal and not moving "Shelf Mode" and got to deep power save.
   
 
